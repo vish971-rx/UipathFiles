@@ -1,0 +1,18 @@
+Report Requirement
+ 
+1.	Create an Employee Personal Details Dashboard with below fields.
+Person Number, First Name, Last Name, Phone No, Email, Blood Group, Gender, Marital Status.
+All the employees should have Work Email. Contingent Workers, Pending Workers should not be included. Gender Male should appear in Red Colour, Female should appear in Blue Colour.
+Insert a Graph with Gender and count of the same.
+Add Person Number as Dashboard Prompt
+ 
+2.	Create an Employee Assignment Details Report with below fields.
+Assignment Number, First Name, Last Name, Position, Job, Department, Working Hours, Email.
+Only the Active Employees should be selected. If Email is present, then display YES or display NO. Create an Action Link on Person Number such that it directs to the first Report where we can find all the personal Details.
+
+https://docs.oracle.com/en/cloud/paas/bi-cloud/bilug/set-properties-columns.html#GUID-08B167D2-6FF5-4868-9555-A2EDABE77482
+
+
+https://academy.uipath.com/
+https://www.uipath.com/developers/guides-and-resources
+https://www.uipath.com/developers/video-tutorials/excel-and-datatables-automation
